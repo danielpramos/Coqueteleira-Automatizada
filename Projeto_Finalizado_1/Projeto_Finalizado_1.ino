@@ -1,6 +1,9 @@
 // ========================================================================================================
                                  // Bibliotecas Auxiliares
 
+           //Projeto Coqueteleira Automatizada Arduino   Autor: Daniel Pinhero    2018
+
+
 #include <Wire.h>                        //Biblioteca para o módulo I2C
 #include <LiquidCrystal_I2C.h>                                 //Biblioteca do dispray
 #include <AFMotor.h>                                           //Biblioteca do motor de passo    
@@ -127,7 +130,6 @@ void loop()
   readButts();
 
 } 
-
 
 void setColor(int verde, int azul, int vermelho)                 //função para os leds por PWM
 {
