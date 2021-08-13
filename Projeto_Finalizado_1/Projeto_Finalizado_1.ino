@@ -1,7 +1,8 @@
 // ========================================================================================================
                                  // Bibliotecas Auxiliares
 
-           //Projeto Coqueteleira Automatizada Arduino   Autor: Daniel Pinhero    2018
+           //Projeto Coqueteleira Automatizada Arduino   Autor: Daniel Pinhero 2018
+           //🚀🚀🚀 Code your life! 🚀🚀🚀
 
 
 #include <Wire.h>                        //Biblioteca para o módulo I2C
